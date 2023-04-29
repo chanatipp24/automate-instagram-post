@@ -1,5 +1,11 @@
 "# automate-instagram-post" 
 
+Add .env IG_USERNAME IG_PASSWORD
+
+Add your image to post
+
+Edit cron job schedule
+
 ### `npm start`
 
 Runs the app in the development mode.\
