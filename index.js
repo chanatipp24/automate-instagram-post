@@ -12,7 +12,6 @@ var { generateHashtag, randomItem } = require('./random.js')
 const readFileAsync = promisify(readFile);
 const { IgApiClient, IgCheckpointError } = require('instagram-private-api');
 require("dotenv").config();
-// const CronJob = require("cron").CronJob;
 
 const fs = require('fs').promises;
 let arr_items = [];
