@@ -1,4 +1,4 @@
-"# automate-instagram-post" 
+"# Automate Instagram Post" 
 
 ### `npm install`
 
