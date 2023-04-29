@@ -1,5 +1,7 @@
 "# automate-instagram-post" 
 
+### `npm install`
+
 Add .env IG_USERNAME IG_PASSWORD
 
 Add your image to post
